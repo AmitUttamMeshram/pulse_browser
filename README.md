@@ -2,3 +2,4 @@ Pulse Browser is a sleek, modern, and lightweight web browser concept designed f
 
 🔗 Live Demo: https://amituttammeshram.github.io/pulse_browser/
 
+![image alt](https://github.com/AmitUttamMeshram/pulse_browser/blob/main/Screenshot%202025-07-08%20205542.png?raw=true)
